@@ -1,7 +1,7 @@
 class Cat 
   cat.new
   
-  attr_accessible :name 
+  attr_accessor :name 
   
   
   
